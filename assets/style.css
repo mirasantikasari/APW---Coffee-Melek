@@ -45,7 +45,7 @@ body {
   padding: 0 16px;
 }
 .text-gradient {
-  background: linear-gradient(90deg, #2563eb, #06b6d4, #22c55e);
+  background: linear-gradient(90deg, #c1662a, #d97706, #8c4b1f);
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
@@ -73,7 +73,7 @@ body {
   text-decoration: none;
   font-weight: 800;
   font-size: 20px;
-  background: linear-gradient(90deg, #2563eb, #06b6d4, #22c55e);
+  background: linear-gradient(90deg, #c1662a, #d97706, #8c4b1f);
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
@@ -523,7 +523,7 @@ body {
   margin-bottom: 12px;
 }
 .icon svg { width: 24px; height: 24px; }
-.icon--hero { background: linear-gradient(135deg, #2563eb, #06b6d4); color: #ffffff; }
+.icon--hero { background: linear-gradient(135deg, #c1662a, #d97706); color: #ffffff; }
 .icon--accent { background: var(--accent-soft); color: #0891b2; }
 .icon--secondary { background: var(--secondary); color: var(--primary); }
 .card-title {
